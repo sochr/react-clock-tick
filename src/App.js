@@ -5,6 +5,7 @@ import Clock from "./clock";
 export default function App() {
   return (
     <Container maxWidth="sm">
+      <h1>Clock Test</h1>
       <Clock />
     </Container>
   );
