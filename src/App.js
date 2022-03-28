@@ -7,6 +7,8 @@ export default function App() {
     <Container maxWidth="sm">
       <h1>Clock Test</h1>
       <Clock />
+      <Clock />
+      <Clock />
     </Container>
   );
 }
