@@ -19,13 +19,9 @@ or:
 
 <!-- #default-branch-switch -->
 
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
-It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/guides/interoperability/#styled-components).
-
+This example demonstrates how you can create a ticking clock [react-clock-tick](https://github.com/facebookincubator/create-react-app).
+ 
 ## What's next?
 
 <!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/getting-started/templates/) section.
+ 
