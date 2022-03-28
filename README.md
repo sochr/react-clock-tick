@@ -1,17 +1,6 @@
 # Create React App example
 
-## How to use
-
-Download the example [or clone the repo](https://github.com/mui/material-ui):
-
-<!-- #default-branch-switch -->
-
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
-```
-
-Install it and run:
+Based on React-Tutorial: https://reactjs.org/docs/state-and-lifecycle.html
 
 ```sh
 npm install
